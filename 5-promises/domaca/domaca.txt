@@ -1,0 +1,16 @@
+vytvor si zakladny html a main.js
+prepoj ich
+v html si vytvoris dve buttony kde prvy bude ano
+a druhy nie
+
+v js si vytvoris posluchace kde ked kliknem na ano vykoncolujes v konzole ano az po 10sec.
+
+pri kliknuti nie vykonzolujes nie az po 5sec.
+uvidis v konzole toto
+'nie'
+'ano'
+
+a pomocou promise sa pokus vytvorit vysledny konzol log
+druhe tlacidlo po kliknuti bude kozolovat vystup
+'ano'
+'nie'

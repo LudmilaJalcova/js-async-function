@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Danko Janko",
+    "company": "Lidl",
+    "phone": "123456789"
+  },
+  {
+    "id": 2,
+    "name": "Ferko Janko",
+    "company": "Tesco",
+    "phone": "0244520452"
+  },
+  {
+    "id": 3,
+    "name": "Duri Janko",
+    "company": "Albert",
+    "phone": "0425042404"
+  }
+]

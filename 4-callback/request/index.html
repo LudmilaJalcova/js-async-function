@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+
+  <body>
+    <ul>
+      <li><button id="get">GET</button></li>
+      <li><button id="get-by-id">GET BY ID</button></li>
+      <li><button id="post">POST</button></li>
+      <li><button id="put">PUT</button></li>
+      <li><button id="delete">DELETE</button></li>
+      <li><button id="patch">PATCH</button></li>
+    </ul>
+    <table>
+      <thead>
+        <tr>
+          <th>methoda</th>
+          <th>status code</th>
+          <th>response</th>
+        </tr>
+      </thead>
+      <tbody id="table">
+        <!-- `<tr>
+          <td>${statusCode}</td>
+          <td>${response}</td>
+        </tr>` -->
+      </tbody>
+    </table>
+    <table>
+      <thead>
+        <tr>
+          <th>methoda</th>
+          <th>status code</th>
+        </tr>
+      </thead>
+      <tbody id="table-errors">
+        <!-- `<tr>
+          <td>${statusCode}</td>
+        </tr>` -->
+      </tbody>
+    </table>
+
+    <script src="easyhttp.js"></script>
+    <script src="app.js"></script>
+  </body>
+
+</html>
