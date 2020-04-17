@@ -1,0 +1,10 @@
+vytvor si index.html v ktorom budes mat nalinkovany main.js subor
+v main.js subre vytvor asynchronu funkciu pomocou async a await nazvi ju getUsers()
+
+url je https://jsonplaceholder.typicode.com/users
+
+pomocou fetch ziskaj json a response vloz do body ako text
+
+--- domaca 2
+
+pretvor to async a await na zapis pomocou new Promise((reslove, reject) => {})

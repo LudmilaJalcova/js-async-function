@@ -1,0 +1,18 @@
+vytvor stranku kde budes mat 2 tlacitka ak kliknem na tlacitko zavolam si request
+nad toutu url "https://api.chucknorris.io/jokes/random" konkretne zavolam metodu GET
+vytiahnem si z jsonu icon_url, value
+
+zobrazim si v htmlku ikonku a value podla obrazka
+
+ikonka je https://assets.chucknorris.host/img/avatar/chuck-norris.png
+value je Chuck Norris can roundhouse kick you in the balls, face, and back of the head at the same time.
+
+button bude mat text get a joke by XMLHttpRequest
+button bude mat text get a joke by fetch
+
+ak bude v requeste chyba vykonzoluj mi 'there was an error'
+
+skus pouzit new XMLHttpRequest()
+skus pouzit fetch pomocou async await
+
+urobit dva subory, nahodit na github (vytvorit repozitare v random.jokes.)
